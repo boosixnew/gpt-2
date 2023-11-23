@@ -56,3 +56,6 @@ We are still considering release of the larger models.
 ## License
 
 [Modified MIT](./LICENSE)
+
+
+Sometimes not deal avoid game million.
